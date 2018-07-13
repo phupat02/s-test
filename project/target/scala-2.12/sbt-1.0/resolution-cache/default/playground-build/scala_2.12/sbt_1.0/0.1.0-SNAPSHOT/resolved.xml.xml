@@ -4,7 +4,7 @@
 		module="playground-build"
 		revision="0.1.0-SNAPSHOT"
 		status="integration"
-		publication="20180706101413"
+		publication="20180712124528"
 		e:sbtVersion="1.0" e:scalaVersion="2.12"
 	>
 		<description>
