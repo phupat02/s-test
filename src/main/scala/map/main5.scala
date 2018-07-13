@@ -27,5 +27,6 @@ object main5 extends App {
   println(l.map(modifyList))
   println("End of list")
   println("Test 2")
+  println("Test 3")
 
 }
