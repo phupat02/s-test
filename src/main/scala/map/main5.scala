@@ -25,5 +25,6 @@ object main5 extends App {
   println(l.flatMap(x => List(x, x + 0.5)))
   println(l.map(x=> List(x, x + 0.5)))
   println(l.map(modifyList))
+  println("End of list")
 
 }
